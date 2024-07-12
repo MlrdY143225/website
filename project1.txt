@@ -1,0 +1,3 @@
+Hired as a Sr. DevOps Engineer in Abode Software. 
+They want to implement DevOps Lifecycle in their company. 
+We have been asked to implement this lifecycle as fast as possible. 

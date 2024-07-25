@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myproj
-        image: sagarintellipaat/project2
+        image: mlrdy143225/nginx
         ports:
         - containerPort: 80
